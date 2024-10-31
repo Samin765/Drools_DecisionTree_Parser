@@ -1,7 +1,7 @@
 # Machine Learning Integration with Rule Engine "Drools". Automatic Rule Creating from Decision Trees
 
 ## Overview
-
+View **"DT_To_Drools_Parser.ipynb"** for a demo on how to use the parser and integrate it into your Drools Engine
 ## Project Structure
 - **Dataset Creation**: Custom PyTorch `Dataset` class with data split into training, validation, and test sets.
 - **Model Training**: XGBoost classifier model setup, training, and evaluation.
