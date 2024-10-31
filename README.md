@@ -1,8 +1,6 @@
-# Project Title: Dataset Preparation and Rule-Based Classification with XGBoost and Drools Integration
+# Machine Learning Integration with Rule Engine "Drools". Automatic Rule Creating from Decision Trees
 
 ## Overview
-
-This project demonstrates a comprehensive approach to dataset preparation, model training, feature importance analysis, and rule extraction using XGBoost, followed by rule-based classification with Drools. The primary aim is to build a custom dataset, train an XGBoost classifier, analyze feature importance, distill the model using Decision Trees, and generate rules compatible with the Drools engine for further evaluation and deployment in a Java environment.
 
 ## Project Structure
 - **Dataset Creation**: Custom PyTorch `Dataset` class with data split into training, validation, and test sets.
